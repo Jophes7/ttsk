@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Trip to South Korea</title>
+	<meta charset="utf-8">
+	<meta name="viewport"
+	content="width=device-width, initial-scale=1.0">
+	<link href="TtSK.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+</script>
+<![endif]-->
+</head>
+<body>
+<div id="wrapper">
+	<header>
+	<a href="TtSK.html">
+	<img alt="Home" src="HomeLogo.png"></a></header>
+	<nav>
+	<table class="navTable">
+	<tr>
+	<th class="noBorder"><a href="Popularity.html">Why is South Korea<br> Popular?</a></th>
+	<th class="noBorder"><a href="VisitImages.html">Places to<br> Visit</a></th>
+	<th class="noBorder"><a href="FunFacts.html">Why Should You<br> Visit?</a></th>
+	</tr>
+	</table>
+	</nav>
+	<main>
